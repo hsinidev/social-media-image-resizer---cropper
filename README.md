@@ -24,7 +24,7 @@ Instantly resize, crop, and format images for Instagram, Twitter, Facebook, YouT
 
 ## 🚀 Live Demo
 
-Experience the tool in action: **[https://doodax.com](https://doodax.com)**
+Experience the tool in action: **[https://doodax.com](https://doodax.com/tools/social-media-image-resizer-cropper/index.html)**
 
 ---
 
